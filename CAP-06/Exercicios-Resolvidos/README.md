@@ -66,4 +66,30 @@ questão vale um ponto. O primeiro conjunto de dados a ser lido é o gabarito da
 dos são os números dos alunos e as respostas que deram às questões. Existem dez alunos matriculados.
 Calcule e mostre:
   - o número e a nota de cada aluno; e
-  - a porcentagem de aprovação, sabendo-se que a nota mínima é 6. 
+  - a porcentagem de aprovação, sabendo-se que a nota mínima é 6.
+
+* 11 - Faça um programa que receba a temperatura média de cada mês do ano, armazenando-as em um vetor.
+Calcule e mostre a maior e a menor temperatura do ano e em que mês ocorreram (mostrar o mês por
+extenso: 1 – janeiro, 2 – fevereiro...). Desconsidere empates.
+
+* 12 - Faça um programa que preencha um vetor com os modelos de cinco carros (exemplos de modelos: Fusca,
+Gol, Vectra etc). Carregue outro vetor com o consumo desses carros, isto é, quantos quilômetros cada um
+deles faz com um litro de combustível. Calcule e mostre:
+  - o modelo de carro mais econômico; e
+  - quantos litros de combustível cada um dos carros cadastrados consome para percorrer uma distân-
+cia de 1.000 km.
+
+* 13 - Faça um programa que preencha um vetor com dez números inteiros, calcule e mostre os números su-
+periores a cinquenta e suas respectivas posições. O programa deverá mostrar mensagem se não existir
+nenhum número nessa condição.
+
+* 14 - Faça um programa que preencha três vetores com cinco posições cada. O primeiro vetor receberá os
+nomes de cinco funcionários; o segundo e o terceiro vetor receberão, respectivamente, o salário e o
+tempo de serviço de cada um. Mostre um primeiro relatório apenas com os nomes dos funcionários que não
+terão aumento; mostre um segundo relatório apenas com os nomes e os novos salários dos funcionários que terão aumento. Sabe-se que os funcionários que terão direito ao aumento são aqueles que possuem tempo de serviço superior
+a cinco anos ou salário inferior a R$ 800,00. Sabe-se, ainda, que, se o funcionário satisfizer às duas condições anteriores, tempo de serviço e salário, o aumento será de 35%; para o funcionário que satisfazer apenas à condição tempo de serviço, o aumento será de
+25%; para aquele que satisfazer apenas à condição salário, o aumento será de 15%.
+
+* 15 - Faça um programa que preencha um primeiro vetor com dez números inteiros, e um segundo vetor
+com cinco números inteiros. O programa deverá mostrar uma lista dos números do primeiro vetor com
+seus respectivos divisores armazenados no segundo vetor, bem como suas posições.
